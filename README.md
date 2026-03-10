@@ -36,7 +36,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 1. **Clone o repositório:**
 ```bash
 git clone https://github.com/luanajulia/WikiGit.git
-
+```
 2. **Acesse a pasta do projeto:**
 
   ```bash 
